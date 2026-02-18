@@ -19,3 +19,8 @@ The study analyzes collocation-based methods, specifically the **Lobatto IIIa** 
 
 ## Conclusion
 The project highlights the trade-off between the robustness of **bvp4c** (better for rough initial guesses) and the high-order efficiency of **bvp5c** (optimal for smooth solutions and high accuracy requirements).
+
+### Authors
+- **Chiara Garuglieri**
+- Claudia Scarpa
+- Valentina Sanson
